@@ -1,6 +1,6 @@
 // Implement atoi
 
-https://github.com/gcc-mirror/gcc/blob/master/libiberty/strtol.c
+//https://github.com/gcc-mirror/gcc/blob/master/libiberty/strtol.c
 
 #include <stdio.h>
 #include <limits.h>
